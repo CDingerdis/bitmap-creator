@@ -1,0 +1,21 @@
+.canvasBlock {
+    position: relative;
+    display: inline-block;
+}
+.canvasBlock p {
+    text-align: center;
+}
+
+.canvasBlock a {
+    display: block;
+    text-align: center;
+    color: blue;
+    text-decoration: underline;
+}
+#list > ul > li > span {
+    margin-right: 10px;
+}
+#list > ul > li > img {
+    position: absolute;
+    margin-top: 4px;
+}
